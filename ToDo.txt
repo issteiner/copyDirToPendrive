@@ -1,0 +1,3 @@
+- Skip directory creating when directory is empty or contains empty directories only
+- Copy directories as one, instead of file by file
+- 
